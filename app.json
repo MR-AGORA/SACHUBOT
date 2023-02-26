@@ -1,9 +1,9 @@
 {
-  "name": "JaanBanallBot",
+  "name": "SachuBanallBot",
   "description": "GROUP KI MAA CHOD DO.",
   "keywords": ["python", "telegram"],
-  "logo": "https://telegra.ph/file/485d5b950411e554ff696.jpg",
-  "repository": "https://github.com/CuteBaccha/JaanBanallBot",
+  "logo": "https://telegra.ph/file/8af0b268f2b03f9bd3206.jpg",
+  "repository": "https://github.com/MR-AGORA/SACHUBOT",
   "stack": "container",
   "addons": [
       {
