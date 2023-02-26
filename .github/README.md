@@ -1,4 +1,4 @@
-<h3 align="center"><strong><code>JaanBanallBot 🚀</code></strong></h3>
+<h3 align="center"><strong><code>SACHU BOT 🚀</code></strong></h3>
 
 <img src="https://telegra.ph/file/8af0b268f2b03f9bd3206.jpg" alt="Unable To serve You">
 <blockquote>
@@ -14,7 +14,7 @@
 ❍ <code>BOT_TOKEN</code><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➥ <strong>Get it from</strong> <a href="https://t.me/Botfather"><code>@BOTFATHER</code></a><br>
 ❍ <code>OWNER_ID</code><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➥ <strong>Get it from</strong> <a href="https://t.me/SONA_x_ROBOT"><code>@SONA_x_ROBOT</code></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➥ <strong>Get it from</strong> <a href="https://t.me/agoraAi_bot"><code>KANNADIGA</code></a>
 </details><details>
 <summary><h4><strong><i>Commands⚙️🛠️</i></strong></h4></summary>
 &nbsp;◍&nbsp;<code>/ping</code>&nbsp;:&nbsp;<strong>To Check Bot Ping Status.</strong><br>
@@ -24,7 +24,7 @@
 </details><details>
 <summary><h4><strong>❍&nbsp;Deploy On Heroku 🚀.</strong></h4></summary>
 <blockquote><strong>Hey You can deploy this bot on <code>Heroku</code> very easly from here!!</strong><br><br>
-<a href="https://heroku.com/deploy?template=https://github.com/CuteBaccha/jaanBanallBot/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a>
+<a href="https://heroku.com/deploy?template=https://github.com/MR-AGORA/SACHUBOT/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a>
 </blockquote> 
 </details>
 </p>
